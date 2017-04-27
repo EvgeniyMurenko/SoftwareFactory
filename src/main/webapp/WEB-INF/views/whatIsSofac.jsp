@@ -44,7 +44,7 @@
                     <span style="font-size: 12pt; line-height: 20px;">특급호텔급 개발 서비스를 누려 보세요</span></h3>
 
                 <div class="row">
-                    <div class="col-md-8"><img src="resources/indexPage/images/shema3.png" alt=""
+                    <div class="col-md-8"><img src="resources/indexPage/images/shema3.jpg" alt=""
                                                class="img-responsive"></div>
                 </div>
 

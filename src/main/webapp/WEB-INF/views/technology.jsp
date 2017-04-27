@@ -34,8 +34,8 @@
                 <div class="col-md-12 mt20"><a data-fancybox="gallery" href="/resources/indexPage/images/shema9.jpg"><img
                         src="/resources/indexPage/images/shema9.jpg" alt="" class="img-responsive"></a></div>
                 <div class="col-md-12 clearfix mt40"><a data-fancybox="gallery"
-                                                        href="/resources/indexPage/images/shema10.png"><img
-                        src="/resources/indexPage/images/shema10.png" alt="" class="img-responsive"></a></div>
+                                                        href="/resources/indexPage/images/shema10.jpg"><img
+                        src="/resources/indexPage/images/shema10.jpg" alt="" class="img-responsive"></a></div>
             </div>
 
             <h3>SPRIM Socket</h3>
@@ -53,7 +53,7 @@
 
             <div class="row">
                 <div class="col-md-4 col-sm-4 col-xs-6" style="border-right: 3px dotted #aaa;"><img
-                        src="/resources/indexPage/images/serf7.png" alt="" class="img-responsive"></div>
+                        src="/resources/indexPage/images/serf7.jpg" alt="" class="img-responsive"></div>
                 <div class="col-md-8 col-sm-12 col-xs-12">
                     <h3>SoFAC의 기술제공 정책</h3>
 

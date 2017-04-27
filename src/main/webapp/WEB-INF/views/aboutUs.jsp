@@ -30,7 +30,7 @@
             <p>한국의 ㈜굿앤굿 재무설계 법인이 주체가 되고 미국의 IT법인, 러시아, 우크라이나, 베트남 기업 및 대학들과 협력하고 있으며,<br/>
                 재무설계 법인의 특성상 자금 및 법률 행정 지원과 더불어 소프트웨어가 동시에 지원이 되어야 기업이 성장할 수 있다는 새로운 시대적 요구에 따라 좋은 아이디어와 사업의 의지가 있는 스타트업
                 기업의 종합 지원도 가능한 구조를 갖추고 있습니다.</p>
-            <img src="/resources/indexPage/images/circle-logo.png" alt=""/>
+            <img src="/resources/indexPage/images/circle-logo.jpg" alt=""/>
             <h3>We Builid SoftwareFactory</h3>
 
             <div class="row mt20 mb40 clearfix">
@@ -56,8 +56,8 @@
             </div>
 
             <div class="row mt200">
-                <div class="col-md-12"><a data-fancybox="gallery" href="/resources/indexPage/images/staff.png"
-                                          class="position-center"><img src="/resources/indexPage/images/staff-small.png"
+                <div class="col-md-12"><a data-fancybox="gallery" href="/resources/indexPage/images/staff.jpg"
+                                          class="position-center"><img src="/resources/indexPage/images/staff-small.jpg"
                                                                        alt="" class="img-responsive staff"/></a></div>
             </div>
 

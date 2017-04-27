@@ -37,13 +37,13 @@
             <p>온라인 문의를 통해서 요청하시거나 아래 리스트를 통해서 직접 개발 관련 문의 및 접촉을 하실 수 있습니다.</p>
 
             <div class="row mb20">
-                <div class="col-md-10"><a data-fancybox="gallery" href="resources/indexPage/images/image003.png"><img
-                        src="resources/indexPage/images/image003.png" alt="" class="img-responsive"/></a></div>
+                <div class="col-md-10"><a data-fancybox="gallery" href="resources/indexPage/images/image003.jpg"><img
+                        src="resources/indexPage/images/image003.jpg" alt="" class="img-responsive"/></a></div>
             </div>
 
             <section style="border-bottom: 1px solid #eee; padding: 10px 0" class="clearfix">
                 <div class="row mt20 mb20 clearfix">
-                    <div class="col-md-3"><img src="resources/indexPage/images/small-logo-green.png" alt=""
+                    <div class="col-md-3"><img src="resources/indexPage/images/small-logo-green.jpg" alt=""
                                                class="img-responsive"/></div>
                 </div>
 
@@ -56,7 +56,7 @@
 
             <section style="border-bottom: 1px solid #eee; padding: 10px 0" class="clearfix">
                 <div class="row mt20 mb20 clearfix">
-                    <div class="col-md-3"><img src="resources/indexPage/images/small-logo-green.png" alt=""
+                    <div class="col-md-3"><img src="resources/indexPage/images/small-logo-green.jpg" alt=""
                                                class="img-responsive"/></div>
                 </div>
 

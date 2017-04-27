@@ -64,8 +64,8 @@ a {
 
 /* Cover */
 .cover {
+    background: url('../images/parallax-bg.jpg') 0 0;
     background-size: cover;
-    background: url('../images/parallax-bg.jpg') center top;
     border-top: 1px solid #eee;
     border-bottom: 1px solid #eee;
     -webkit-box-shadow: 0 0 10px 7px rgba(238, 238, 238, 1);

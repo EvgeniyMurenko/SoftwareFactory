@@ -127,10 +127,12 @@
                                 <% out.print(message.getMessageText());%>
                                 <% if (message.getMessagePath()!=null) {
                                     File directory = new File(message.getMessagePath());
-                                    File[] files= directory.listFiles();
-                                    for (int i=0; i<files.length; i++){
-                                        String fileName =files[i].getName();
-                                        out.print("<p><a href="+ GlobalEnum.webRoot+"/download/"+message.getId()+"/"+fileName+"/"+">"+fileName+"</a>");
+                                    if (directory.exists()) {
+                                        File[] files = directory.listFiles();
+                                        for (int i = 0; i < files.length; i++) {
+                                            String fileName = files[i].getName();
+                                            out.print("<p><a href=" + GlobalEnum.webRoot + "/download/" + message.getId() + "/" + fileName + "/" + ">" + fileName + "</a>");
+                                        }
                                     }
                                 } %>
                             </div>
@@ -157,10 +159,12 @@
                                 <% out.print(message.getMessageText());%>
                                 <% if (message.getMessagePath()!=null) {
                                     File directory = new File(message.getMessagePath());
-                                    File[] files= directory.listFiles();
-                                    for (int i=0; i<files.length; i++){
-                                        String fileName =files[i].getName();
-                                        out.print("<p><a href="+ GlobalEnum.webRoot+"/download/"+message.getId()+"/"+fileName+"/"+">"+fileName+"</a>");
+                                    if (directory.exists()) {
+                                        File[] files = directory.listFiles();
+                                        for (int i = 0; i < files.length; i++) {
+                                            String fileName = files[i].getName();
+                                            out.print("<p><a href=" + GlobalEnum.webRoot + "/download/" + message.getId() + "/" + fileName + "/" + ">" + fileName + "</a>");
+                                        }
                                     }
                                 } %>
                             </div>

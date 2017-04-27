@@ -26,8 +26,8 @@
         <div class="col-md-8">
 
             <div class="row mb30">
-                <div class="col-md-8"><a data-fancybox="gallery" href="resources/indexPage/images/image004.png"><img
-                        src="resources/indexPage/images/image004.png" alt="" class="img-responsive"/></a></div>
+                <div class="col-md-8"><a data-fancybox="gallery" href="resources/indexPage/images/image004.jpg"><img
+                        src="resources/indexPage/images/image004.jpg" alt="" class="img-responsive"/></a></div>
             </div>
 
             <div style="margin-bottom: 50px;">
